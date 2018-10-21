@@ -28,6 +28,13 @@ body {
 #starting-age:focus {
   outline: none;
 }
+.fa-twitter{
+  color: #1DA1F2;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
 
 button {
   font-size: 18pt;
@@ -49,6 +56,10 @@ button:hover {
 
 button:focus {
   outline: none;
+}
+
+a:hover{
+  cursor: pointer
 }
 
 span {
