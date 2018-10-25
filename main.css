@@ -28,6 +28,13 @@ body {
 #starting-age:focus {
   outline: none;
 }
+.fa-twitter{
+  color: #1DA1F2;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
 
 button {
   font-size: 18pt;
@@ -51,6 +58,10 @@ button:focus {
   outline: none;
 }
 
+a:hover{
+  cursor: pointer
+}
+
 span {
   padding: 5px 15px;
   background-color: rgba(255, 0, 0, 0.3);
@@ -68,4 +79,5 @@ a {
 
 #blog-post {
   color: rgba(128, 0, 128, 0.75);
+  color: rgba(255, 0, 0, 0.4);
 }
